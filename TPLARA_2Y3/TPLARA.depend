@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1588628633 source:c:\users\administrador1\desktop\ejerc++\tplara\main.cpp
+	<iostream>
+	<stdlib.h>
+	"rlutil.h"
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	"prototipo.h"
+	"menus.h"
+	"clientes.h"
+	"funciones.h"
+
+1588629675 c:\users\administrador1\desktop\ejerc++\tplara\funciones.h
+
+1588285549 c:\users\administrador1\desktop\ejerc++\tplara\rlutil.h
+
+1588631747 c:\users\administrador1\desktop\ejerc++\tplara\prototipo.h
+
+1588634650 c:\users\administrador1\desktop\ejerc++\tplara\menus.h
+
+1588634676 c:\users\administrador1\desktop\ejerc++\tplara\clientes.h
+
+1589405953 source:c:\users\edwin salcedo\desktop\ejerc++\tplara\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"rlutil.h"
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	"prototipo.h"
+	"menus.h"
+	"clientes.h"
+	"pedidos.h"
+	"funciones.h"
+
+1588285549 c:\users\edwin salcedo\desktop\ejerc++\tplara\rlutil.h
+
+1589486648 c:\users\edwin salcedo\desktop\ejerc++\tplara\prototipo.h
+
+1589486104 c:\users\edwin salcedo\desktop\ejerc++\tplara\menus.h
+
+1589479493 c:\users\edwin salcedo\desktop\ejerc++\tplara\clientes.h
+
+1589482790 c:\users\edwin salcedo\desktop\ejerc++\tplara\funciones.h
+
+1589492656 c:\users\edwin salcedo\desktop\ejerc++\tplara\pedidos.h
+
+1589572120 source:c:\users\edwin salcedo\desktop\tplara_tyut\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"rlutil.h"
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	"prototipo.h"
+	"menus.h"
+	"clientes.h"
+	"pedidos.h"
+	"funciones.h"
+	"reportes_configuraciones.h"
+
+1588285549 c:\users\edwin salcedo\desktop\tplara_tyut\rlutil.h
+
+1589576701 c:\users\edwin salcedo\desktop\tplara_tyut\prototipo.h
+
+1589574555 c:\users\edwin salcedo\desktop\tplara_tyut\menus.h
+
+1589575194 c:\users\edwin salcedo\desktop\tplara_tyut\clientes.h
+
+1589572376 c:\users\edwin salcedo\desktop\tplara_tyut\pedidos.h
+
+1589576701 c:\users\edwin salcedo\desktop\tplara_tyut\funciones.h
+
+1589576997 c:\users\edwin salcedo\desktop\tplara_tyut\reportes_configuraciones.h
+
+1589742650 source:c:\users\edwin salcedo\desktop\tplara_oficial\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"rlutil.h"
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	"prototipo.h"
+	"menus.h"
+	"clientes.h"
+	"pedidos.h"
+	"platos.h"
+	"reportes_configuraciones.h"
+
+1588285549 c:\users\edwin salcedo\desktop\tplara_oficial\rlutil.h
+
+1589809526 c:\users\edwin salcedo\desktop\tplara_oficial\prototipo.h
+
+1589809527 c:\users\edwin salcedo\desktop\tplara_oficial\menus.h
+
+1589810151 c:\users\edwin salcedo\desktop\tplara_oficial\clientes.h
+
+1589809980 c:\users\edwin salcedo\desktop\tplara_oficial\pedidos.h
+
+1589638857 c:\users\edwin salcedo\desktop\tplara_oficial\funciones.h
+
+1589810472 c:\users\edwin salcedo\desktop\tplara_oficial\reportes_configuraciones.h
+
+1589810151 c:\users\edwin salcedo\desktop\tplara_oficial\platos.h
+
+1589742650 source:c:\users\edwin salcedo\desktop\tplara_2y3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"rlutil.h"
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<iomanip>
+	"prototipo.h"
+	"menus.h"
+	"clientes.h"
+	"pedidos.h"
+	"platos.h"
+	"reportes_configuraciones.h"
+
+1588285549 c:\users\edwin salcedo\desktop\tplara_2y3\rlutil.h
+
+1589812247 c:\users\edwin salcedo\desktop\tplara_2y3\prototipo.h
+
+1589813029 c:\users\edwin salcedo\desktop\tplara_2y3\menus.h
+
+1589814135 c:\users\edwin salcedo\desktop\tplara_2y3\clientes.h
+
+1589809980 c:\users\edwin salcedo\desktop\tplara_2y3\pedidos.h
+
+1589814135 c:\users\edwin salcedo\desktop\tplara_2y3\platos.h
+
+1589813352 c:\users\edwin salcedo\desktop\tplara_2y3\reportes_configuraciones.h
+
